@@ -41,10 +41,17 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 
 <h1>commands</h1>
-How to Run:
+## How to Run
 
-* go to main folder and open terminal an then npm install
-* Go to src folder and run node server.js
+1. Navigate to the main folder and open a terminal:
+   ```bash
+   npm install
+   ```
+2. Go to the src folder and run the server:
+   ```bash
+   node server.js
+   ```
+3. That's it! Your server should now be running and accessible via your local environment.
 
 
 <h1>Interface Example</h1>
