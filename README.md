@@ -41,7 +41,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 
 <h1>commands</h1>
-## How to Run
+### `How to Run`
 
 1. Navigate to the main folder and open a terminal:
    ```bash
