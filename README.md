@@ -73,11 +73,10 @@ function App() {
   return (
     <div>
       <h1>Interface Example</h1>
-      <img src="C:\Users\Sriharshini\Downloads\interface.jpg" alt="Interface" />
     </div>
   );
 }
 
 export default App;
-![WhatsApp Image 2024-12-18 at 21 31 12_e1c4c8d9](https://github.com/user-attachments/assets/cf690c22-d906-403d-baa2-1df6b904fa7b)
+[interface](https://github.com/user-attachments/assets/cf690c22-d906-403d-baa2-1df6b904fa7b)
 
