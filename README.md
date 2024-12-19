@@ -76,52 +76,25 @@ How to Run:
 * go to main folder and open terminal an then npm install
 * Go to src folder and run node server.js
 
-function App() {
-  return (
-    <div>
-      <h1>Interface Example</h1>
-    </div>
-  );
-}
 
-export default App;
-
+<h1>Interface Example</h1>
 
 ![interface](https://github.com/user-attachments/assets/343ecd43-13da-47ca-b571-ef12ffb46875)
 
-function App() {
-  return (
-    <div>
-      <h1>Added-Tasks</h1>
-    </div>
-  );
-}
 
-export default App;
+<h1>Added-Tasks</h1>
+ 
 
 ![Added-tasks](https://github.com/user-attachments/assets/2896742a-e5c9-4233-b848-4234b483d525)
 
-function App() {
-  return (
-    <div>
-      <h1>How-to-do Examples</h1>
-    </div>
-  );
-}
 
-export default App;
+<h1>How-to-do Examples</h1>
 
 ![How-to-do1](https://github.com/user-attachments/assets/b4327a75-301e-407f-8bae-6339e86b8bd3)
 ![How-to-do2](https://github.com/user-attachments/assets/3f01d90c-c552-45d3-a138-f036ed27dd3c)
 
-function App() {
-  return (
-    <div>
-      <h1>Filtering</h1>
-    </div>
-  );
-}
 
-export default App;
+<h1>Filtering</h1>
+
 
 ![filtering](https://github.com/user-attachments/assets/6652dac2-c93d-448b-85cb-2ba58d28320f)
