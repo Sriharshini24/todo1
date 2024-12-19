@@ -69,6 +69,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
+
+<h1>commands</h1>
+How to Run:
+
+* go to main folder and open terminal an then npm install
+* Go to src folder and run node server.js
+
 function App() {
   return (
     <div>
