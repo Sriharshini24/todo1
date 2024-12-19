@@ -50,7 +50,11 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
    ```bash
    node server.js
    ```
-3. That's it! Your server should now be running and accessible via your local environment.
+3. Go to the main folder again and run the frontend:
+   ```bash
+   npm start
+   ```
+4. That's it! Your server should now be running and accessible via your local environment.
 
 
 <h1>Interface Example</h1>
